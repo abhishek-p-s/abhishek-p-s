@@ -34,13 +34,13 @@ Hello! I'm Abhishek P S, a senior software engineer with a passion for building 
 ## Contact
 
 - LinkedIn: [Abhishek P S](https://www.linkedin.com/in/abhishek-p-s-83a2311b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email:abhishekps6282@gmail.com
+- Email: abhishekps6282@gmail.com
 
 Feel free to reach out if you have any questions or if you're interested in collaboration!
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-p-s&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-p-s&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=abhishek-p-s)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhishek-p-s)
