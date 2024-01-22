@@ -31,10 +31,6 @@ Hello! I'm Abhishek P S, a senior software engineer with a passion for building 
 1. [Kenya Rural and Urban Sanitation & Hygiene Monitoring Platform](https://rtmis.akvo.org/)
 2. [HRMS](https://colliershrms.six30labs.com/login)
 
-## GitHub Stats
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true)
-
 ## Contact
 
 - LinkedIn: [Abhishek P S](https://www.linkedin.com/in/abhishek-p-s-83a2311b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
