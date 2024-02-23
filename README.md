@@ -36,7 +36,7 @@ I am a firm believer in the power of collaboration and thrive in team environmen
     
 <h3 align="left">Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/deden-bangkit" target="blank"
+  <a href="https://in.linkedin.com/in/abhishek-p-s-83a2311b6?trk=public_profile_browsemap" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
