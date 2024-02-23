@@ -34,12 +34,12 @@ I am a firm believer in the power of collaboration and thrive in team environmen
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
     
-<h3 align="center">Connect with me</h3>
+<h3 align="left">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/deden-bangkit" target="blank"
     ><img
       align="center"
-      src="https://in.linkedin.com/in/abhishek-p-s-83a2311b6?trk=public_profile_browsemap"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Abhishek"
       height="20"
       width="40"
