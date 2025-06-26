@@ -39,10 +39,6 @@ I am a firm believer in the power of collaboration and thrive in team environmen
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-p-s&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishek-p-s&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
